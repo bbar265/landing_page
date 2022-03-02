@@ -16,8 +16,7 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #1f2937;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 1em 13em;
 }
 
 .leftside {
@@ -55,12 +54,12 @@ body {
 }
 
 .hero {
+  padding: 0em 13em;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #1f2937;
   color: #f9faf8;
-  padding: 50px;
   height: 50vh;
 }
 
@@ -122,6 +121,7 @@ height: 50vh;
   justify-content: space-around;
   gap: 52px;
   margin: 20px;
+  padding: 0em 13em;
 }
 
 .item {
@@ -156,6 +156,7 @@ img {
   font-weight: lighter;
   font-style: italic;
   height: 40vh;
+  padding: 0em 6em;
 }
 
 /* Quote Section End */
@@ -166,11 +167,11 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 50px;
+  padding: 4em 4em;
   margin-top: 100px;
   margin-bottom: 100px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
   border-radius: 15px;
   color: #ececec;
   background-color: rgb(73, 29, 230);
